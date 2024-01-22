@@ -7,3 +7,5 @@
 
 Статьи:
 1. [Исследование фрактальных особенной рынков валют](https://github.com/Evgeniy-Afanasev/science/blob/main/Article(N1)/Article(N1).ipynb)
+2. [Адаптационный метод определения фрактальной размерности](https://github.com/Evgeniy-Afanasev/science/blob/main/Article(N2)/adaptation.ipynb)
+3. [Применение адаптированного клеточного способа нахождения фрактальной размерности для валютных рынков](https://github.com/Evgeniy-Afanasev/science/blob/main/Article(N2)/multi_dynamics.ipynb)
